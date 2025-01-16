@@ -9,7 +9,7 @@
 }
 .main-img{
   width: 20%;
-  border: 1rem solid #EAE4CC;
+  border: 0.7rem solid #EAE4CC;
 }
 body{
   background-color: white;
@@ -25,7 +25,7 @@ h1{
   font-size: 1rem;
 }
 h2{
-  font-size: 4rem;
+  font-size: 3rem;
 }
 h3{
   font-weight: normal;
